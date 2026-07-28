@@ -1,0 +1,15 @@
+# İndirilen belgeler ve üretilen indeks — büyük ve yeniden üretilebilir
+data/
+chroma_db/
+
+# Python önbelleği
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+.venv/
+venv/
+
+# PyCharm kullanıcıya özel ayarlar
+.idea/workspace.xml
