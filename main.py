@@ -1,5 +1,3 @@
-"""EPDK elektrik mevzuatı soru-cevap arayüzü."""
-
 import io
 import re
 import sys
