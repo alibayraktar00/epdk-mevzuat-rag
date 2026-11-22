@@ -13,3 +13,6 @@ venv/
 
 # PyCharm kullanıcıya özel ayarlar
 .idea/workspace.xml
+
+# PyCharm proje ayarları
+.idea/
